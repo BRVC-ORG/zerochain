@@ -1,7 +1,8 @@
-# zerochain
 Classical Tabletop Exercise, Simulation
 
 Materials provided: None (users can exchange messages via OTPs)
+
+-------------
 
 Zero Chain (stylized: 0chain) Attack
 
